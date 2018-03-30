@@ -1,6 +1,8 @@
 # todolist
 使用了Django，Django Restframework，React和PostgreSQL做了一个todolist。
+
 主要支持的功能：
+
 添加一个待办事项
 
 删除一个待办事项
