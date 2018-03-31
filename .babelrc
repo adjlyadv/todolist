@@ -6,3 +6,7 @@
         }
     }
 }
+git clone git@github.com:ninechapter/LintCodeJudge.git
+git clone git@github.com:ninechapter/LintCode.git
+git clone git@github.com:ninechapter/NineChapter.git
+vagrant box add ubuntu/trusty64 
